@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
 
     <!--- basic page needs
@@ -12,7 +12,6 @@
     <!-- mobile specific metas
     ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
     <!-- CSS
     ================================================== -->
     <link rel="stylesheet" href="/css/base.css">
