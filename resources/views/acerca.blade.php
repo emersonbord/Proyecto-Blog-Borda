@@ -35,7 +35,9 @@
 
     <!-- pageheader
     ================================================== -->
-@include('layouts.header')
+    <div class="s-pageheader">    
+    @include('layouts.header')
+    </div>
     <!-- end s-pageheader -->
 
 

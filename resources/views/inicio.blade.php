@@ -32,13 +32,11 @@
 
 <body id="top">
 
-    <!-- pageheader
+    <section class="s-pageheader s-pageheader--home">
+        <!-- pageheader
     ================================================== -->
     @include('layouts.header')
     <!-- end s-pageheader -->
-
-
-    <section class="s-pageheader s-pageheader--home">
         <div class="pageheader-content row">
             <div class="col-full">
 
