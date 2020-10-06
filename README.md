@@ -8,4 +8,6 @@
 
 **Framework:** Laravel 6.x
 
+**Estado:** En desarrollo
+
 **Descripción:** El proyecto tiene como objetivo crear una nueva comunidad de interés relacionado con el posteo de diversos artículos del área de las tecnologías de la información. Serán bienvenidos todos aquellos actores que deseen aportar en conocimiento, investigación, ciencia o dar a conocer diversos puntos de vistas propios de la persona acerca de esta área. El proyecto incluye un panel de administración que trabajará con las funciones básicas de un sistema "Crear", "Leer", "Modificar" y "Eliminar" (CRUD) para cada post.
