@@ -1,4 +1,4 @@
-## Proyecto Laravel 6.x
+## Proyecto Blog-Borda 📃
 
 **Nombre:** Sistema de Blog Autoadministrable 20 **(SBA20)**
 
